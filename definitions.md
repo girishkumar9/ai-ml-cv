@@ -43,5 +43,5 @@ The core idea is output depends on a series on inputs
 - AWS Panoroma - Just a linux machine to deploy CV models (no model is provided by default) 
 - Lambda Function - Used in generating bounding box around the objects recognized by the model (Code implemented here can be consumed and used in other apps) 
 - AWS Grasshopper - Used to deploy models (used by panorama as well)
-- AWS Rekognition - Better model that runs in the cloud, less deployment needed as it is cloud deployed. No Machine Learning expertise needed. Models be re-trained via custom labels with removes the learning curve involved with Machine Learning. Less infrastructure costs. 
+- AWS Rekognition - Better model that runs in the cloud, less deployment needed as it is cloud deployed. No Machine Learning expertise needed. Models be re-trained via custom labels which removes the learning curve involved with Machine Learning. Less infrastructure costs. 
 
