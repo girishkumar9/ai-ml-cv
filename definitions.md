@@ -7,7 +7,8 @@ Is a set Artificial Intelligence methods that keeps learning from new data and h
 Modelled from Human Brain, it is a way to achieve Machine Learning 
 ## Deep Learning 
 Is a sub class of Machine Learning to study deep neural networks. Deep Learning networks learn by themselves and imporves over time. AlphaGo is first application that is built on Deep Learning to learn the game Go. One of most complex games from Chinese origin and has a lot of combinations. The app defeated the world champion. 
-- Computer Vision - Uses Convolutional Neural Networks to identity objects 
+- Computer Vision 
+	- Uses Convolutional Neural Networks to identity objects 
 - Chatbots 
 - Banking Applications 
 
